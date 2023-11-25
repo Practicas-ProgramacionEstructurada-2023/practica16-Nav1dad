@@ -1,0 +1,4 @@
+Nombre del paciente: luis
+Fecha de cita: 20/12/2023 00:00:00
+Razon de Consulta: limpieza
+Costo de consulta: 100

@@ -1,0 +1,4 @@
+Nombre del paciente: pedro
+Fecha de cita: 15/12/2023 10:30:00
+Razon de Consulta: dolor
+Costo de consulta: 80
